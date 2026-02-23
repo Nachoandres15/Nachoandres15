@@ -37,6 +37,3 @@ Desarrollador Frontend y DevOps / Analista de Sistemas en formación hacia Arqui
 
 ---
 
-## 📈 Estadísticas de GitHub
-
-![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=radical)
