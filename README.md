@@ -7,7 +7,7 @@ Desarrollador Frontend y DevOps / Analista de Sistemas en formación hacia Arqui
 ## 🚀 Proyectos Destacados
 
 ### [Proyecto Web 1]
-- Desarrollo frontend con JavaScript, HTML y CSS, incluyendo optimización de UX/UI.  
+- Desarrollo frontend con JavaScript, HTML y CSS, incluyendo optimización de UX/UIy optimización SEO.
 - Tecnologías: JavaScript, HTML5, CSS3, WordPress  
 
 
