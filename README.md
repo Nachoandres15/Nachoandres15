@@ -1,51 +1,42 @@
-# 👋 Hola!
+# 👋 Hola! 
 
-Bienvenido a mi portafolio de proyectos. Aquí puedes explorar algunos de los trabajos en los que he estado involucrado y mis principales habilidades técnicas.
+Desarrollador Frontend y DevOps / Analista de Sistemas en formación hacia Arquitecto de Soluciones. Me especializo en **desarrollo web**, **automatización de procesos** y **gestión de infraestructura cloud**. Aquí comparto algunos de mis proyectos y tecnologías clave.
 
 ---
-<!--
+
 ## 🚀 Proyectos Destacados
 
-### [Nombre del Proyecto 1]
-- Breve descripción del proyecto y su objetivo.
-- Tecnologías usadas: [Python, React, etc.]  
-[🔗 Ver proyecto](URL_del_proyecto)
+### [Proyecto Web 1]
+- Desarrollo frontend con JavaScript, HTML y CSS, incluyendo optimización de UX/UI.  
+- Tecnologías: JavaScript, HTML5, CSS3, WordPress  
 
-### [Nombre del Proyecto 2]
-- Breve descripción del proyecto y su objetivo.
-- Tecnologías usadas: [Node.js, MongoDB, etc.]  
-[🔗 Ver proyecto](URL_del_proyecto)
 
-### [Nombre del Proyecto 3]
-- Breve descripción del proyecto y su objetivo.
-- Tecnologías usadas: [HTML, CSS, JS, etc.]  
-[🔗 Ver proyecto](URL_del_proyecto)
+### [Proyecto DevOps 1]
+- Implementación de pipelines CI/CD y automatización de despliegues, reduciendo tiempos de entrega un 35%.  
+- Tecnologías: Jenkins, Bash, GitLab, Nexus  
 
-*(Agrega más proyectos según quieras mostrar)*
 
----
--->
+### [Proyecto Cloud 1]
+- Gestión de infraestructura en AWS y Azure, asegurando alta disponibilidad y seguridad.  
+- Tecnologías: AWS, Azure, on-premise  
 
-## 🛠 Habilidades
 
-- **Lenguajes:** Python, JavaScript, HTML/CSS, Bash, C, C ++, Matlab  
-<!--- **Frameworks y Librerías:** React, Node.js, Django  -->
-- **Otras herramientas:** Git, AWS, Jenkins, MatLab, Nexus, Wordpress, SEO.
 
 ---
 
+## 🛠 Habilidades Técnicas
 
-<!--
-**Nachoandres15/Nachoandres15** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- **Lenguajes y scripting:** JavaScript, HTML, CSS, Python, Bash, C, C++, MATLAB, RARSv  
+- **Frontend / Web:** WordPress, HTML5, CSS3, desarrollo responsive  
+- **DevOps / Automatización:** Jenkins, CI/CD, Git, GitLab, Nexus 3  
+- **Cloud / Infraestructura:** AWS, Azure, on-premise  
+- **Documentación y Arquitectura:** Draw.io, diagramas de red, manuales técnicos  
+- **Otras herramientas:** LDAP, cURL, jq, orient-console, CSV  
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+---
+
+## 📈 Estadísticas de GitHub
+
+![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=radical)
