@@ -6,17 +6,17 @@ Desarrollador Frontend y DevOps / Analista de Sistemas en formación hacia Arqui
 
 ## 🚀 Proyectos Destacados
 
-### [Proyecto Web 1]
+### Proyecto Web 
 - Desarrollo frontend con JavaScript, HTML y CSS, incluyendo optimización de UX/UIy optimización SEO.
 - Tecnologías: JavaScript, HTML5, CSS3, WordPress  
 
 
-### [Proyecto DevOps 1]
+### Proyecto DevOps
 - Implementación de pipelines CI/CD y automatización de despliegues, reduciendo tiempos de entrega un 35%.  
 - Tecnologías: Jenkins, Bash, GitLab, Nexus  
 
 
-### [Proyecto Cloud 1]
+### Proyecto Cloud
 - Gestión de infraestructura en AWS y Azure, asegurando alta disponibilidad y seguridad.  
 - Tecnologías: AWS, Azure, on-premise  
 
