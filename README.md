@@ -1,5 +1,4 @@
-## Hi there 👋
-# 👋 Hola, soy [Tu Nombre]
+# 👋 Hola!
 
 Bienvenido a mi portafolio de proyectos. Aquí puedes explorar algunos de los trabajos en los que he estado involucrado y mis principales habilidades técnicas.
 
